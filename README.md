@@ -18,8 +18,6 @@ Feel free to visit my [GitHub profile](https://github.com/HasselNot7)!
 
 ## 🚀 Skills
 
-Here is the tech stack I am familiar with:
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasselNot7)
 
 - **Programming Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
