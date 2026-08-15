@@ -48,24 +48,24 @@ I am **HasselNot7**, a graduate student specializing in **Remote Sensing** and *
 
 <p align="center">
   <a href="https://github.com/HasselNot7">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HasselNot7&theme=github_dark" alt="GitHub statistics" width="49%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HasselNot7&theme=github_dark" alt="GitHub statistics" width="45%" />
   </a>
   <a href="https://github.com/HasselNot7">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HasselNot7&theme=github_dark" alt="Most used languages" width="42%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HasselNot7&theme=github_dark" alt="Most used languages" width="45%" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HasselNot7&theme=github-dark&hide_border=true&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub contribution streak" width="58%" />
+  <img src="https://streak-stats.demolab.com/?user=HasselNot7&theme=github-dark&hide_border=true" alt="GitHub contribution streak" width="75%" />
 </p>
 
 <h3 align="center">🐍 Contribution Snake</h3>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HasselNot7/HasselNot7/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HasselNot7/HasselNot7/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/HasselNot7/HasselNot7/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="94%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HasselNot7/HasselNot7/gh-pages/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HasselNot7/HasselNot7/gh-pages/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/HasselNot7/HasselNot7/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="94%" />
   </picture>
 </p>
 
@@ -79,12 +79,15 @@ I am **HasselNot7**, a graduate student specializing in **Remote Sensing** and *
       <strong>Languages</strong><br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="28" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" height="28" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" height="28" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" height="28" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" height="28" />
     </td>
     <td align="center" valign="top" width="33%">
       <strong>Frameworks &amp; Libraries</strong><br><br>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" height="28" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" height="28" />
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" height="28" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" height="28" />
     </td>
     <td align="center" valign="top" width="33%">
       <strong>Tools</strong><br><br>
