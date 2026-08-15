@@ -56,11 +56,17 @@ I am **HasselNot7**, a graduate student specializing in **Remote Sensing** and *
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HasselNot7&background=0b1220&border=1e3a5f&stroke=1e3a5f&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b&hide_border=true" alt="GitHub contribution streak" width="58%" />
+  <img src="https://streak-stats.demolab.com/?user=HasselNot7&background=0b1220&border=1e3a5f&stroke=1e3a5f&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true&hide_border=true" alt="GitHub contribution streak" width="58%" />
 </p>
 
+<h3 align="center">🐍 Contribution Snake</h3>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HasselNot7&theme=github-compact&bg_color=0b1220&color=38bdf8&line=22d3ee&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" width="94%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HasselNot7/HasselNot7/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HasselNot7/HasselNot7/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/HasselNot7/HasselNot7/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="94%" />
+  </picture>
 </p>
 
 ---
