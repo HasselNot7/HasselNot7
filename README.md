@@ -48,15 +48,15 @@ I am **HasselNot7**, a graduate student specializing in **Remote Sensing** and *
 
 <p align="center">
   <a href="https://github.com/HasselNot7">
-    <img src="https://github-readme-stats.vercel.app/api?username=HasselNot7&show_icons=true&theme=github_dark&hide_border=true&bg_color=0b1220&title_color=38bdf8&text_color=c9d1d9&icon_color=22d3ee" alt="GitHub statistics" width="49%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HasselNot7&theme=github_dark" alt="GitHub statistics" width="49%" />
   </a>
   <a href="https://github.com/HasselNot7">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasselNot7&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0b1220&title_color=38bdf8&text_color=c9d1d9&icon_color=22d3ee" alt="Most used languages" width="42%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HasselNot7&theme=github_dark" alt="Most used languages" width="42%" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HasselNot7&background=0b1220&border=1e3a5f&stroke=1e3a5f&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true&hide_border=true" alt="GitHub contribution streak" width="58%" />
+  <img src="https://streak-stats.demolab.com/?user=HasselNot7&theme=github-dark&hide_border=true&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub contribution streak" width="58%" />
 </p>
 
 <h3 align="center">🐍 Contribution Snake</h3>
