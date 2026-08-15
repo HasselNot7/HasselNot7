@@ -59,14 +59,8 @@ I am **HasselNot7**, a graduate student specializing in **Remote Sensing** and *
   <img src="https://streak-stats.demolab.com/?user=HasselNot7&theme=github-dark&hide_border=true" alt="GitHub contribution streak" width="75%" />
 </p>
 
-<h3 align="center">🐍 Contribution Snake</h3>
-
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HasselNot7/HasselNot7/gh-pages/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HasselNot7/HasselNot7/gh-pages/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/HasselNot7/HasselNot7/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="94%" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HasselNot7&theme=github-compact&bg_color=0b1220&color=38bdf8&line=22d3ee&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" width="94%" />
 </p>
 
 ---
