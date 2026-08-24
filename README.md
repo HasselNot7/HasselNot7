@@ -14,6 +14,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://ghfind.com/u/hasselnot7?ref=badge">
+    <img src="https://ghfind.com/api/card/hasselnot7?theme=dark" alt="GitHub Roast" width="600" />
+  </a>
+</p>
+
 ---
 
 ## 🧭 About Me
