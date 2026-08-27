@@ -1,18 +1,31 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=700&color=10B981&center=true&vCenter=true&width=620&height=45&lines=Exploring+Earth+observation+through+code;Turning+spatial+data+into+clear+insight" alt="Typing introduction" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/HasselNot7">
-    <img src="https://komarev.com/ghpvc/?username=HasselNot7&label=Profile%20Views&color=059669&style=flat-square" alt="Profile views" />
-  </a>
-  <a href="https://github.com/HasselNot7?tab=followers">
-    <img src="https://img.shields.io/github/followers/HasselNot7?label=Followers&style=flat-square&logo=github&color=047857" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/HasselNot7">
-    <img src="https://img.shields.io/github/stars/HasselNot7?label=Stars&style=flat-square&logo=star&color=065f46" alt="GitHub stars" />
-  </a>
-</p>
+```ansi
+                  -~+@@%*~%@@@ %%@@%*                                                                                
+               ^@@@@@%%%@@@@@@@@@@%###*~'                                                                            
+          .  @@@@@%#%@@@@@@@@@@@@@@@@==*~:'.              [1mhasselnot [0m[38;5;240m-------------------------------------------------[0m
+        '  #@@@@@#%@@@@@@@@@@@@@@@@@@%-^^':''                                                                        
+      .  +@@@@@%#@@*@@@%@@@@@@@~@@%%+@*^^^'::'.            [38;5;240m.[0m [38;5;208mOS:[0m [38;5;240m....................................[0m Windows, Ubuntu
+     ' .@@%@%%%%@@~%@%-@@@@@@@*^%%%%=~+^^^:.:'.            [38;5;240m.[0m [38;5;208mUptime:[0m [38;5;240m..............................[0m 10 months, 6 days
+    ' ^@@%%%%%%%%=-%#-^%%%%%@%^^^+##+--^^^^'.'             [38;5;240m.[0m [38;5;208mHost:[0m [38;5;240m....................................[0m UCAS, Beijing
+      @%%%###+%#+^^#~^^%##%%#-^^:-**~::^^^^:.              [38;5;240m.[0m [38;5;208mKernel:[0m [38;5;240m...................[0m AIRCAS, Remote Sensing & GIS
+   : +-#%#-#*-#*^^+*^:'#+~##=^^^'^~*::::::^:'              [38;5;240m.[0m [38;5;208mIDE:[0m [38;5;240m...........................................[0m VS Code
+   . ::%#^^*~^*-:^++^'^+~^**^^^^^^:^::^::::'.              [38;5;240m.[0m [38;5;208mLanguages.Programming:[0m [38;5;240m..........................[0m Python
+     ':#:^^+-.-^':=-'~-=-^~-^^^^=:'::-::.::::              [38;5;240m.[0m [38;5;208mLanguages.Computer:[0m [38;5;240m................[0m HTML, CSS, Markdown
+   . ':+:^^-=':^^=**-*+~^-----^-=~=^=#^^^^:^^:-            [38;5;240m.[0m [38;5;208mLanguages.Real:[0m [38;5;240m......................[0m Mandarin, English
+    :::-':^^^:'         :#---^:+~         ::::: '                                                                    
+     .+='':^^^::^:%.... @@@%*+^*@ .''.#-':^^:::::::        [38;5;240m.[0m [38;5;208mHobbies:[0m [38;5;240m....................[0m Photography, Photo Editing
+     =#-*'':::^^^*#%%#@@@@@@+#@@@@@@%%#*^^:::'^::'::                                                                 
+    #*=^+: .:::::' %@@@@@@@@+#@@@@@@%%%':::'.-*::'':.     - Contact [38;5;240m-------------------------------------------------[0m
+   =**~^-:'. .:::'#@@@@@@@@@@@@@@@@@%%*.::  ^'*::''::.     [38;5;240m.[0m [38;5;208mEmail.School:[0m [38;5;240m............[0m yanzizhen25@mails.ucas.edu.cn
+  .*+^~:^:':   ::' %@@@@@@@@@@@@@@@@%% .    .:*+:''':'     [38;5;240m.[0m [38;5;208mWebsite:[0m [38;5;240m................................[0m hasselnot.site
+ .*-^:~:::..     .   ^@@@@@@@@@@@@@+        .:=+='''':.    [38;5;240m.[0m [38;5;208mGitHub:[0m [38;5;240m....................................[0m @HasselNot7
+.-+^::-:::             -~%@@@@@%--            -=~-''':''                                                             
+'=^::::-::           .:*~~~-----~~:           '~-^:''':'  - GitHub Stats [38;5;240m--------------------------------------------[0m
+:~:':::^^.         *##:#%=~~~~~~~~::-          :^:: ..''   [38;5;240m.[0m Repos: [38;5;240m.....[0m 6 | Contributed: [38;5;240m.....[0m 2 | Stars: [38;5;240m......[0m 8 
+-^'''':::.    +###**##+~%%%=~~~~~~-------^      '::'  .'   [38;5;240m.[0m Commits: [38;5;240m.....[0m 144 | Followers: [38;5;240m.......[0m 2               
+^^-~*####'''''*###**###~=%%%%*~~~~^--------     ^^-^: ..                                                             
+^^-**+=+*^'''''###*#####~*##%%%%#^--=#####'    :^~#~^^                                                               
+^^**###==+''''':#########=%%%%%%--~###%%#~'''''^^~##-^.                                                              
+```
 
 <p align="center">
   <a href="https://ghfind.com/u/hasselnot7?ref=badge">
@@ -20,34 +33,10 @@
   </a>
 </p>
 
----
-
-## 🧭 About Me
-
-I am **HasselNot7**, a graduate student at the **University of Chinese Academy of Sciences**, focusing on **Remote Sensing & GIS**.
-
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HasselNot7/HasselNot7/gh-pages/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HasselNot7/HasselNot7/gh-pages/github-contribution-grid-snake.svg" />
     <img src="https://raw.githubusercontent.com/HasselNot7/HasselNot7/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="94%" />
   </picture>
-</p>
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:yanzizhen25@mails.ucas.edu.cn">
-    <img src="https://img.shields.io/badge/Email-yanzizhen25%40mails.ucas.edu.cn-047857?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/HasselNot7">
-    <img src="https://img.shields.io/badge/GitHub-HasselNot7-065f46?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Thanks for visiting. Keep exploring, keep building. 🌌</i>
 </p>
