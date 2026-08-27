@@ -1,0 +1,10 @@
+{
+  "name": "hasselnot7-card",
+  "private": true,
+  "dependencies": {
+    "opentype.js": "^2.0.0"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.4"
+  }
+}

@@ -1,0 +1,48 @@
+name: Update profile card
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/update-card.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-card
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Regenerate card
+        working-directory: scripts
+        run: |
+          npm ci || npm install
+          node svg2.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add card.svg
+          if git diff --cached --quiet; then
+            echo "card.svg unchanged"
+          else
+            git commit -m "auto: 更新资料卡统计数据"
+            git push
+          fi
