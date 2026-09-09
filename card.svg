@@ -14,7 +14,7 @@ text, tspan {white-space: pre; font-variant-ligatures: none;}
 <tspan x="548.0" y="44.0"></tspan>
 <tspan x="548.0" y="63.0" class="cc">. </tspan><tspan class="key">OS</tspan>.<tspan class="key">Desktop</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">Windows</tspan>
 <tspan x="548.0" y="82.0" class="cc">. </tspan><tspan class="key">OS</tspan>.<tspan class="key">Server</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">Ubuntu</tspan>
-<tspan x="548.0" y="101.0" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">10 months, -348 days</tspan>
+<tspan x="548.0" y="101.0" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">10 months, -347 days</tspan>
 <tspan x="548.0" y="120.0" class="cc">. </tspan><tspan class="key">Joined</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">2025-10-21</tspan>
 <tspan x="548.0" y="139.0" class="cc">. </tspan><tspan class="key">Timezone</tspan>:<tspan class="cc"> .......................................... </tspan><tspan class="value">UTC+8</tspan>
 <tspan x="548.0" y="158.0" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">UCAS, Beijing</tspan>
@@ -34,6 +34,6 @@ text, tspan {white-space: pre; font-variant-ligatures: none;}
 <tspan x="548.0" y="424.0"></tspan>
 <tspan x="548.0" y="443.0">- GitHub Stats --------------------------------------------</tspan>
 <tspan x="548.0" y="462.0" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">9</tspan> | <tspan class="key">Contributed</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">7</tspan> | <tspan class="key">Stars</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">12</tspan>
-<tspan x="548.0" y="481.0" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">274</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">3</tspan>
+<tspan x="548.0" y="481.0" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">307</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">3</tspan>
 </text>
 </svg>
